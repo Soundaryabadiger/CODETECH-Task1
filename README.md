@@ -1,6 +1,6 @@
 # CODETECH-Task1
 Name - Soundarya Badiger
-Company - CODEYECH IT SOLUTIONS
+Company - CODETECH IT SOLUTIONS
 ID - CT04WM61
 Domain -VLSI
 Duration -March 18th,2025 to April 18th,2025
