@@ -4,7 +4,7 @@ Company - CODETECH IT SOLUTIONS
 ID - CT04WM61
 Domain -VLSI
 Duration -March 18th,2025 to April 18th,2025
-Mentor - Vaishali
+Mentor - Neela Santosh Kumar
 
 Here's an overview of the alu_32bit_case Verilog module:
 
